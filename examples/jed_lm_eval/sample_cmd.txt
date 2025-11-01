@@ -1,0 +1,3 @@
+Example command:
+
+python examples/jed_lm_eval/run_eval.py   --model-name meta-llama/Llama-3.1-8B-Instruct   --tasks mmlu,gsm8k,truthfulqa   --shots 5   --out runs/llama-8b
